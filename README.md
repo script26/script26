@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am in these organizations:
+I'm in these organizations:
 - https://github.com/tkrclient
 - https://github.com/anarchychat
 - https://github.com/darkexon
