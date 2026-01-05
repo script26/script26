@@ -13,8 +13,8 @@ I like to learn about:
 - Development including game, app and web
 - Backend or frontend
 - Cybersecurity
-- Servers and self hosting I think
-- Networking I think
+- Servers and hosting
+- Networking
 - Minimalist coding and tiny containers
 
 Who am I:
