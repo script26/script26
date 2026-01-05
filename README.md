@@ -18,6 +18,7 @@ I like to learn about:
 
 Who am I:
 - I think I am usually self studious and distracted easily
+- I like learning about technology for fun and I don't really do it for money
 
 <!--
 **script26/script26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
