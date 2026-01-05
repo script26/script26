@@ -4,7 +4,7 @@ I'm in these organizations:
 - https://github.com/tkrclient - chat website with mods
 - https://github.com/anarchychat - chat website
 - https://github.com/darkexon - the smallest dark mode browser extension
-- https://github.com/pictofight - a drawing multiplayer game you fight in
+- https://github.com/pictofight - a work in progress drawing multiplayer game you fight in
 
 Will soon make:
 - an android app in the future i dont know what to make though
