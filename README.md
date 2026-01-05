@@ -7,7 +7,7 @@ I'm in these organizations:
 - https://github.com/pictofight - a work in progress drawing multiplayer game you fight in
 
 Will soon make:
-- an android app in the future i dont know what to make though for a project
+- an android app in the future i dont know what to make though
 
 I like to learn about:
 - Development including game, app and web
