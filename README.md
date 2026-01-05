@@ -15,6 +15,7 @@ I like to learn about:
 - Security anonymity and privacy technologies
 - Servers and self hosting I think
 - Networking I think
+- Minimalist coding and tiny containers
 
 Who am I:
 - I think I am usually self studious and distracted easily
