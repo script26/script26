@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 I'm in these organizations:
-- https://github.com/tkrclient
-- https://github.com/anarchychat
-- https://github.com/darkexon
-- https://github.com/pictofight
+- https://github.com/tkrclient - chat website with mods
+- https://github.com/anarchychat - chat website
+- https://github.com/darkexon - the smallest dark mode browser extension
+- https://github.com/pictofight - a drawing multiplayer game you fight in
+
+Will soon make:
+- app with websocket support via okhttp3.WebSocket to connect to websocket chats
 
 <!--
 **script26/script26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
