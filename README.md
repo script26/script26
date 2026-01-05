@@ -7,7 +7,7 @@ I'm in these organizations:
 - https://github.com/pictofight - a drawing multiplayer game you fight in
 
 Will soon make:
-- an app in the future i dont know what to make though
+- an android app in the future i dont know what to make though
 
 <!--
 **script26/script26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
