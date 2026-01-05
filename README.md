@@ -13,7 +13,7 @@ I like to learn about:
 - Development including game, app and web
 - Backend or frontend
 - Security anonymity and privacy technologies
-- Servers I think
+- Servers and self hosting I think
 - Networking I think
 
 Who am I:
