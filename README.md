@@ -13,7 +13,7 @@ I like to learn about:
 - Development including game, app and web
 - Backend or frontend
 - Security anonymity and privacy technologies
-- Server devops/devsecops i think
+- Server devops/devsecops I think
 
 Who am I:
 - I think I am usually self studious and distracted easily
