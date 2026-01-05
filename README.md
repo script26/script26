@@ -12,7 +12,7 @@ Will soon make:
 I like to learn about:
 - Development including game, app and web
 - Backend or frontend
-- Security anonymity and privacy technologies
+- Cybersecurity
 - Servers and self hosting I think
 - Networking I think
 - Minimalist coding and tiny containers
