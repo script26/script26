@@ -9,6 +9,15 @@ I'm in these organizations:
 Will soon make:
 - an android app in the future i dont know what to make though
 
+I like to learn about:
+- Development including game, app and web
+- Backend or frontend
+- Security anonymity and privacy technologies
+- Server devops/devsecops i think
+
+Who am I:
+- I think I am usually self studious and distracted easily
+
 <!--
 **script26/script26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
