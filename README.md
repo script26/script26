@@ -1,9 +1,9 @@
 I am Gay
 
-- Languages
+- Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,cpp,c,cs,go,lua,ruby,python,bash,powershell,bsd,linux,androidstudio,html,css,idea" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,cpp,c,cs,go,lua,ruby,python,bash,powershell,bsd,linux,androidstudio,html,css,idea,sqlite,npm,nodejs,docker,fediverse,gradle,ipfs,kubernetes,materialui,mysql,nextjs,react,unity,godot,selenium" />
   </a>
 </p>
 
