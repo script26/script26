@@ -1,6 +1,7 @@
 I am Gay
 
 I mainly have experience with JavaScript, TypeScript, C#, C++, C, Go, Python, Kotlin, Java, and others languages
+
 I mainly do game dev, app dev, fullstack web dev, devops, networking, and other things
 <!--
 ## Hi there 👋
