@@ -1,6 +1,11 @@
 I am Gay
 
-I mainly have experience with JavaScript, TypeScript, C#, C++, C, Go, Python, Kotlin, Java, and others languages
+- Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,cpp,c,cs,go,lua,ruby,python,bash,powershell,bsd,linux,androidstudio,html,css,idea" />
+  </a>
+</p>
 
 I mainly do game dev, app dev, fullstack web dev, devops, networking, and other things
 <!--
