@@ -7,7 +7,7 @@ I am Gay
   </a>
 </p>
 
-I mainly do game dev, app dev, fullstack web dev, devops, networking, and other things
+I mainly do game dev, app dev, fullstack web dev, devops, networking, 3d modeling, microcontrollers, sbcs, and other things
 <!--
 ## Hi there 👋
 
